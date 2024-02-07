@@ -1,2 +1,1 @@
-hello Git
-first file
+print("Hello Git")
